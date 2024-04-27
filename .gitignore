@@ -2,3 +2,5 @@ Lib/
 Scripts/
 pyvenv.cfg
 share/
+CODE/
+pipenv-proper-names.txt
